@@ -9,7 +9,7 @@ I am a passionate software developer specializing in frontend development and ma
 
 * 🌍  Madhyapradesh, India
 * ✉️  You can contact me at [gulshansays333@gmail.com](mailto:gulshansays333@gmail.com)
-* 🧠  I'm currently learning JavaScript
+* 🧠  I'm currently grinding the 30 days of consitent coding.
 
  
 <p align="left">
