@@ -3,8 +3,6 @@
 Frontend Developer | DSA Enthusiastic
 -------------------------------------
 
-[![Coddiction-101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coddiction-101&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 I am a passionate software developer specializing in frontend development and mastering Data Structures & Algorithms (DSA). I focus on building efficient, user-friendly applications with modern frontend technologies while strengthening core programming skills through rigorous DSA practice. I thrive on continuous learning, collaboration, and applying my skills to solve real-world problems, and I share my progress through projects on GitHub.
 
 * 🌍  Madhyapradesh, India
