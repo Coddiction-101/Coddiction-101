@@ -45,10 +45,6 @@ Building real-world projects while strengthening problem-solving fundamentals.
 Minimal task management app with filtering, search, dark mode, and persistence.
 🔗 Live: [https://stoic-tasks.netlify.app/](https://stoic-tasks.netlify.app/)
 
-### 🎙️ Text to Voice Converter
-
-Converts text into natural speech using the Web Speech API.
-
 ---
 
 ## DSA Progress
