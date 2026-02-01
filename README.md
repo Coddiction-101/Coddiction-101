@@ -1,105 +1,81 @@
+
+
 # Frontend Developer | DSA Enthusiast
 
-## About Me
+Final-year BCA student focused on **frontend development** and **data structures & algorithms**.
+Building real-world projects while strengthening problem-solving fundamentals.
 
-Final year BCA student passionate about frontend development and data structures. Building scalable applications while mastering algorithms through consistent practice.
-
-**Location:** Madhya Pradesh, India  
-**Contact:** [gulshansays333@gmail.com](mailto:gulshansays333@gmail.com)  
-**LinkedIn:** [Gulshan Kushwaha](https://www.linkedin.com/in/gulshan-kushwaha-439036334)
+📍 Madhya Pradesh, India
+📧 [gulshansays333@gmail.com](mailto:gulshansays333@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/gulshan-kushwaha-439036334)
 
 ---
 
-## Current Focus
+## Focus
 
-```
-┌─ Frontend Development
-│  └─ React, .NET, PHP, JavaScript
-│
-├─ Data Structures & Algorithms
-│  └─ Arrays, Strings, Two-Pointer, Sliding Window
-│
-└─ Building Projects
-   └─ Full-stack applications with database integration
-```
+* **Frontend:** React, JavaScript, HTML, CSS
+* **DSA:** Arrays, Strings, Two-Pointer, Sliding Window
+* **Projects:** Practical, scalable applications
 
-**Active Challenge:** 31 days of consistent coding  
-**Learning:** Advanced array patterns & problem-solving techniques
+**Challenge:** 31 days of consistent coding
 
 ---
 
 ## Tech Stack
 
-**Languages**  
-`JavaScript` `Java` `Python` `C++` `C#` `PHP` `VB.NET` `SQL`
+**Languages:**
+`JavaScript` `Java` `C++` `Python` `C#` `PHP` `SQL`
 
-**Frontend**  
-`React` `HTML5` `CSS3` 
+**Frontend:**
+`React` `HTML5` `CSS3`
 
-**Backend**  
-`.NET Framework` `ASP.NET` `PHP` 
+**Backend & DB:**
+`.NET` `ASP.NET` `PHP`
+`MySQL` `MongoDB` `SQLite`
 
-**Database**  
-`MySQL` `MongoDB` `SQLite` `SQL Server`
-
-**Tools**  
-`Git` `VS Code` `Visual Studio` `Android Studio` `Photoshop` `Linux/Shell`
+**Tools:**
+`Git` `VS Code` `Visual Studio` `Linux/Shell`
 
 ---
 
-## Featured Projects
+## Projects
 
-### Text to Voice Converter 🎙️
+### 🧠 Stoic Notes — Task Dashboard
 
-A sleek and minimal web app that converts user-entered text into natural speech.
-#### Tech Stack:
-- HTML
-- CSS
-- JavaScript (Web Speech API)
-- Fully Responsive Design
+Minimal task management app with filtering, search, dark mode, and persistence.
+🔗 Live: [https://stoic-tasks.netlify.app/](https://stoic-tasks.netlify.app/)
+
+### 🎙️ Text to Voice Converter
+
+Converts text into natural speech using the Web Speech API.
+
+---
 
 ## DSA Progress
 
-**Current Focus:** Array Data Structure Mastery  
-**Problems Solved:** Tracking in [array-mastery](https://github.com/Coddiction-101/DAILY-DSA-CPP) repo
-
-**Core Patterns Learned:**
-- Two-Pointer Technique
-- Binary Search Variations
-- Sliding Window (Fixed & Variable)
-- Prefix Sum & Kadane's Algorithm
-- Matrix Traversal & Operations
-
-**Next:** String manipulation & pattern matching
+* **Current:** Array mastery
+* **Patterns:** Two-Pointer, Sliding Window, Binary Search, Prefix Sum
+* **Repo:** [https://github.com/Coddiction-101/DAILY-DSA-CPP](https://github.com/Coddiction-101/DAILY-DSA-CPP)
+* **Next:** Strings & pattern matching
 
 ---
 
-## Learning Journey
+## Learning Status
 
-**Completed:**
-- VB.NET Fundamentals (Variables, Loops, Conditionals, OOP)
-- Linux & Shell Scripting Essentials
-- Web Development (PHP, MySQL, ASP.NET)
-- Mobile Development (Android, SQLite)
-
-**In Progress:**
-- Advanced DSA (Arrays → Strings → Linked Lists)
-- System Design Basics
-- React Advanced Patterns
-
-**Upcoming:**
-- Backend optimization techniques
-- Cloud deployment (AWS/Azure)
-- Contributing to open source
+**Completed:** Web dev basics, VB.NET, Linux, Android fundamentals
+**In Progress:** Advanced DSA, React patterns
+**Upcoming:** System design, backend optimization, cloud deployment
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gulshan-kushwaha-439036334)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Coddiction-101)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gulshansays333@gmail.com)
+[GitHub](https://github.com/Coddiction-101) ·
+[LinkedIn](https://www.linkedin.com/in/gulshan-kushwaha-439036334) ·
+[Email](mailto:gulshansays333@gmail.com)
 
 ---
 
-**"Building today, mastering tomorrow."**
+**Building consistently. Improving deliberately. 🚀**
+
+---
