@@ -1,9 +1,5 @@
 # Frontend Developer | DSA Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;DSA+%26+Problem+Solver;Building+%26+Learning+Daily&font=Fira%20Code&center=true&width=500&height=50&color=58a6ff)](https://github.com/Coddiction-101)
-
----
-
 ## About Me
 
 Final year BCA student passionate about frontend development and data structures. Building scalable applications while mastering algorithms through consistent practice.
@@ -27,7 +23,7 @@ Final year BCA student passionate about frontend development and data structures
    └─ Full-stack applications with database integration
 ```
 
-**Active Challenge:** 30 days of consistent coding  
+**Active Challenge:** 31 days of consistent coding  
 **Learning:** Advanced array patterns & problem-solving techniques
 
 ---
@@ -38,10 +34,10 @@ Final year BCA student passionate about frontend development and data structures
 `JavaScript` `Java` `Python` `C++` `C#` `PHP` `VB.NET` `SQL`
 
 **Frontend**  
-`React` `HTML5` `CSS3` `Bootstrap` `Tailwind CSS`
+`React` `HTML5` `CSS3` 
 
 **Backend**  
-`.NET Framework` `ASP.NET` `Node.js` `PHP` `Express`
+`.NET Framework` `ASP.NET` `PHP` 
 
 **Database**  
 `MySQL` `MongoDB` `SQLite` `SQL Server`
@@ -61,19 +57,6 @@ A sleek and minimal web app that converts user-entered text into natural speech.
 - CSS
 - JavaScript (Web Speech API)
 - Fully Responsive Design
-
-
----
-
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coddiction-101&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/Coddiction-101)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Coddiction-101&theme=github-dark-blue&hide_border=true)](https://github.com/Coddiction-101)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coddiction-101&layout=compact&theme=github_dark&hide_border=true)](https://github.com/Coddiction-101)
-
----
 
 ## DSA Progress
 
