@@ -1,7 +1,8 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8e2d7688-979c-41ad-9c9d-6d4905f31f45" /> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Gulshan kushwaha
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Coddiction-101&data=followers,repositories,stars,commits)](https://github.com/Coddiction-101/github-widgetbox)
 =========================================================================================================================================
 Frontend Developer | DSA Enthusiastic
 -------------------------------------
+
 
 I am a passionate software developer specializing in frontend development and mastering Data Structures & Algorithms (DSA). I focus on building efficient, user-friendly applications with modern frontend technologies while strengthening core programming skills through rigorous DSA practice. I thrive on continuous learning, collaboration, and applying my skills to solve real-world problems, and I share my progress through projects on GitHub.
 
