@@ -1,5 +1,3 @@
-
-
 # Frontend Developer | DSA Enthusiast
 
 Final-year BCA student focused on **frontend development** and **data structures & algorithms**.
@@ -17,7 +15,7 @@ Building real-world projects while strengthening problem-solving fundamentals.
 * **DSA:** Arrays, Strings, Two-Pointer, Sliding Window
 * **Projects:** Practical, scalable applications
 
-**Challenge:** 31 days of consistent coding
+**Challenge:** 100 days of consistent coding
 
 ---
 
