@@ -56,8 +56,10 @@ Minimal task management app with filtering, search, dark mode, and persistence.
 
 ## Learning Status
 
-**Completed:** Web dev basics, VB.NET, Linux, Android fundamentals
-**In Progress:** Advanced DSA, React patterns
+**Completed:** Web dev basics, C++, Python basics
+
+**In Progress:** DSA, React basics
+
 **Upcoming:** System design, backend optimization, cloud deployment
 
 ---
