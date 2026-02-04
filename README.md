@@ -29,11 +29,10 @@ Building real-world projects while strengthening problem-solving fundamentals.
 `React` `HTML5` `CSS3`
 
 **Backend & DB:**  
-`.NET` `ASP.NET` `PHP`  
-`MySQL` `MongoDB` `SQLite`
+`.NET` `ASP.NET` `PHP`  `MySQL` 
 
 **Tools:**  
-`Git` `VS Code` `Visual Studio` `Linux/Shell`
+`Git` `VS Code` `Visual Studio` 
 
 ---
 
@@ -69,22 +68,17 @@ Completed practical cybersecurity tasks through Forage platform
 
 ---
 
-## Learning Status
-
-**Completed:** Web dev basics, C++, Python basics  
-**In Progress:** DSA, React basics, Cybersecurity fundamentals  
-**Upcoming:** System design, backend optimization, cloud deployment
-
+## Currently
+- Grinding DSA daily (arrays & strings mostly)
+- Building stuff with React & JavaScript
+- Exploring cybersecurity concepts
+- Trying to code consistently without burnout
 ---
 
 ## Connect
 
-[GitHub](https://github.com/Coddiction-101) ·  
-[LinkedIn](https://www.linkedin.com/in/gulshan-kushwaha-439036334) ·  
+[GitHub](https://github.com/Coddiction-101) 
+[LinkedIn](https://www.linkedin.com/in/gulshan-kushwaha-439036334) 
 [Email](mailto:aryankushwaha088@gmail.com)
-
----
-
-**Building consistently. Improving deliberately. 🚀**
 
 ---
