@@ -80,5 +80,6 @@ Completed practical cybersecurity tasks through Forage platform
 [GitHub](https://github.com/Coddiction-101) 
 [LinkedIn](https://www.linkedin.com/in/gulshan-kushwaha-439036334) 
 [Email](mailto:aryankushwaha088@gmail.com)
+[Monkeytype](https://monkeytype.com/account/)
 
 ---
