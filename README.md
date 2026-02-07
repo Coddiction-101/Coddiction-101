@@ -61,10 +61,10 @@ Completed practical cybersecurity tasks through Forage platform
 
 ## DSA Progress
 
-* **Current:** Array mastery
-* **Patterns:** Two-Pointer, Sliding Window, Binary Search, Prefix Sum
+* **Current:** Array & Strings | DSA
+* **Patterns:** Two pointers, prefix sum, greedy, sorting
 * **Repo:** [https://github.com/Coddiction-101/DAILY-DSA-CPP](https://github.com/Coddiction-101/DAILY-DSA-CPP)
-* **Next:** Strings & pattern matching
+* **Next:** Hashing & Sliding Window
 
 ---
 
