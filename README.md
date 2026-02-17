@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Aryan 👋
+# Hey, I'm Gulshan 👋
 
 **Frontend Developer · DSA Enthusiast · Builder**
 
