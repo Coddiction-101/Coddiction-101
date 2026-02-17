@@ -33,7 +33,7 @@ class Gulshan {
 
 ## 🚀 Current Focus
 
-- 🔢 **DSA:** Arrays & Strings → moving to Hashing & Sliding Window
+- 🔢 **DSA:** Arrays & Maxtrid/Grid → moving to String & Sliding Window
 - ⚙️ **C++:** Building real projects (Task Manager ✅ Banking System ✅ File Organizer 🔨)
 - 🌐 **PHP Full-Stack:** Preparing for BCA Final Year Project (Pure PHP + MySQL)
 - ⚛️ **Frontend:** React, JavaScript, building practical UIs
