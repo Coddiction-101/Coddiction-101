@@ -20,7 +20,7 @@ Final-year BCA student building real-world projects while mastering problem-solv
 ## 🧠 About Me
 
 ```js
-class Aryan {
+class Gulshan {
     string focus[]   = { "Frontend Dev", "DSA", "PHP Full-Stack", "C++ Projects" };
     string learning  = "Data Structures & Algorithms (Arrays → Hashing → Trees)";
     string building  = "Real-world projects in C++, PHP & React";
