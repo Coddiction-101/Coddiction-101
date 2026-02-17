@@ -90,7 +90,7 @@ class Gulshan {
 > Full ATM simulator with PIN authentication, deposits, withdrawals, transfers, and transaction history.
 - **Stack:** C++ · OOP · STL Map · Pointers · File I/O
 - **Concepts:** Authentication, Multi-account management, File parsing
-- 🔗 [View Project](https://github.com/Coddiction-101)
+- 🔗 [View Project](https://github.com/Coddiction-101/cpp_projects/tree/main/BankingSimulation)
 
 ---
 
