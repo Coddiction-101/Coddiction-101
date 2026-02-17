@@ -22,7 +22,7 @@ Final-year BCA student building real-world projects while mastering problem-solv
 ```js
 class Gulshan {
     string focus[]   = { "Frontend Dev", "DSA", "PHP Full-Stack", "C++ Projects" };
-    string learning  = "Data Structures & Algorithms (Arrays → Hashing → Trees)";
+    string learning  = "Data Structures & Algorithms (Arrays -> Maxtrid/Grid -> String -> Stack)";
     string building  = "Real-world projects in C++, PHP & React";
     string goal      = "Confident full-stack developer before Final Year Project";
     bool   grinding  = true;
