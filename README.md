@@ -82,7 +82,7 @@ class Gulshan {
 > Console-based task management system with priorities, deadlines, and file persistence.
 - **Stack:** C++ · OOP · STL Vectors · File I/O
 - **Concepts:** Encapsulation, Menu-driven UI, Data persistence
-- 🔗 [View Project](https://github.com/Coddiction-101)
+- 🔗 [View Project](https://github.com/Coddiction-101/cpp_projects/tree/main/TaskManager%26Schedular)
 
 ---
 
