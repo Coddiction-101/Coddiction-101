@@ -8,7 +8,7 @@ Final-year BCA student building real-world projects while mastering problem-solv
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gulshan-kushwaha-439036334)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryankushwaha088@gmail.com)
-[![GitHib](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Coddiction-101)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Coddiction-101)
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-E2B714?style=for-the-badge&logo=monkeytype&logoColor=black)](https://monkeytype.com/account/)
 
 📍 Madhya Pradesh, India
