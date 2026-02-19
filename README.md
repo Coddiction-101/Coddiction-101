@@ -112,22 +112,7 @@ class Gulshan {
 > Drag-and-drop task management board with multiple columns and smooth animations.
 - **Stack:** JavaScript · HTML · CSS
 - 🔗 [Live Demo](https://kanban-board-ver1.netlify.app/)
-
----
-
-## 📊 DSA Progress
-```
-- **Arrays & Matrix**      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  80%  ← Current
-- **Grid / Stack / Queue** ░░░░░░░░░░░░░░░░  0%   ← Next
-- **Sliding Window**       ░░░░░░░░░░░░░░░░  0%   ← Upcoming
-- **Two Pointers**         ▓▓▓▓▓▓░░░░░░░░░░  40%
-- **Prefix Sum**           ▓▓▓▓░░░░░░░░░░░░  30%
-- **Sorting & Greedy**     ▓▓▓▓░░░░░░░░░░░░  30%
-```
-**Patterns practiced:** Two Pointers · Prefix Sum · Greedy · Sorting
-
-🔗 [Daily DSA Repo](https://github.com/Coddiction-101/DAILY-DSA-CPP)
-
+  
 ---
 
 ## 🏅 Certifications
