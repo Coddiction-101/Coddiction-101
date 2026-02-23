@@ -118,7 +118,6 @@ class Gulshan {
 | [cpp-projects](https://github.com/Coddiction-101/cpp_projects) | Built C++ projects portfolio |
 | [cpp-project-ideas](https://github.com/Coddiction-101/cpp_projects) | C++ project ideas & planning |
 | [php-fullstack](https://github.com/Coddiction-101/php-fullstack) | PHP learning hub & FYP prep |
-| [bca-notes](https://github.com/Coddiction-101/bca-notes) | BCA semester-wise notes & resources |
 | [DAILY-DSA-CPP](https://github.com/Coddiction-101/DAILY-DSA-CPP) | Daily DSA practice |
 
 ---
