@@ -115,7 +115,7 @@ class Gulshan {
 
 | Repo | Description |
 |------|-------------|
-| [cpp-projects](https://github.com/Coddiction-101/cpp-projects) | Built C++ projects portfolio |
+| [cpp-projects](https://github.com/Coddiction-101/cpp_projects) | Built C++ projects portfolio |
 | [cpp-project-ideas](https://github.com/Coddiction-101/cpp-project-ideas) | C++ project ideas & planning |
 | [php-fullstack](https://github.com/Coddiction-101/php-fullstack) | PHP learning hub & FYP prep |
 | [bca-notes](https://github.com/Coddiction-101/bca-notes) | BCA semester-wise notes & resources |
