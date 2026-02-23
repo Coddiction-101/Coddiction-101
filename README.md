@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Aryan 👋
+# Hey, I'm Gulshan 👋
 
 **Frontend Developer · DSA Enthusiast · Builder**
 
@@ -21,7 +21,7 @@ Final-year BCA student building real-world projects while mastering problem-solv
 ## 🧠 About Me
 
 ```cpp
-class Aryan {
+class Gulshan {
     string focus[]   = { "Frontend Dev", "DSA", "PHP Full-Stack", "C++ Projects" };
     string learning  = "Data Structures & Algorithms";
     string building  = "Real-world projects in C++, PHP & React";
