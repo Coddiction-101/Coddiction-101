@@ -92,19 +92,6 @@ class Gulshan {
 
 ---
 
-### 🌐 Web Applications
-
-**🧠 Stoic Notes** — [Live Demo](https://stoic-tasks.netlify.app/)
-- Minimal task dashboard with filtering & dark mode
-
-**🎮 Quiz Game** — [Live Demo](https://quiz-game-v1.netlify.app/)
-- Interactive quiz with score tracking
-
-**📋 Kanban Board** — [Live Demo](https://kanban-board-ver1.netlify.app/)
-- Drag-and-drop task board with smooth animations
-
----
-
 ## 🏅 Certifications
 
 🛡️ **Cyber Job Simulation — Deloitte** *(January 2026)*
