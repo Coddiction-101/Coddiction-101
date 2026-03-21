@@ -18,95 +18,210 @@ I build clean web applications with vanilla JavaScript and have strong programmi
 ## 👨‍💻 About Me
 
 Final-year BCA student focused on web development. I build projects to learn, not just to add to my resume.
-```javascript
-const gulshan = {
-    education: "BCA Final Year (2026)",
-    focus: "Web Development + Programming Fundamentals",
-    techStack: ["HTML", "CSS", "JavaScript", "C++", "MySQL"],
-    learning: "React (Next on the list)",
-    building: "7 complete projects (4 web + 3 C++)",
-    lookingFor: "Frontend Developer Internships"
-};
-```
+
+**Quick Overview:**
+
+🎓 **Education:** BCA Final Year (2026) | Makhanlal Chaturvedi University, Bhopal  
+💻 **Tech Stack:** HTML5 · CSS3 · JavaScript · C++   
+🚀 **Projects Built:** 7 Complete Projects (4 Web + 3 C++)  
+📚 **Currently Learning:** React · Advanced JavaScript · DSA  
+🎯 **Goal:** Frontend Developer Internships (Remote/Hybrid)
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 Web Development Projects
 
-### 🌐 Web Development
+### **[Stoic Notes](https://stoic-tasks.netlify.app/)** — Task Management Dashboard
+Modern task manager with dark/light mode, filtering, and persistent storage.
 
-**[Stoic Notes](https://stoic-tasks.netlify.app/)** — Task Dashboard  
-Modern task manager with dark/light mode, filtering, search  
-`HTML5` `CSS3` `JavaScript` `LocalStorage`
+**Features:**
+• Dark/Light theme with localStorage persistence  
+• Real-time task search  
+• Smart filtering (All / Active / Completed)  
+• Live remaining task counter  
+• Fully responsive design  
 
-**[Commit Task Manager](https://commit-task-manager.netlify.app/)** — Full-Featured Task App  
-Animations, keyboard shortcuts, auto-save, responsive design  
-`HTML5` `CSS3` `JavaScript` `Font Awesome`
+**Tech:** `HTML5` `CSS3` `JavaScript` `LocalStorage API`
 
-**[Kanban Board](https://kanban-board-ver1.netlify.app/)** — Project Management  
-Visual task organization with dynamic rendering  
-`HTML5` `CSS3` `JavaScript`
+---
 
-**[Quiz Game](https://quiz-game-v1.netlify.app/)** — Interactive Quiz  
-Dynamic questions, real-time scoring, responsive  
-`HTML5` `CSS3` `JavaScript`
+### **[Commit Task Manager](https://commit-task-manager.netlify.app/)** — Full-Featured Task App
+Feature-rich task manager with animations, keyboard shortcuts, and auto-save.
 
-### 💻 C++ Programming
+**Features:**
+• Add, complete, delete tasks with smooth animations  
+• Keyboard shortcuts (Ctrl+K to focus)  
+• Auto-save every 30 seconds  
+• Bulk clear completed tasks  
+• Custom checkbox styling  
 
-**Task Manager & Scheduler** — CLI App  
-Color-coded priorities, deadlines, undo/redo (50 levels), search, sort  
-`C++` `STL` `File I/O` `ANSI Codes`
+**Tech:** `HTML5` `CSS3` `JavaScript` `Font Awesome`
 
-**Banking System** — ATM Simulator  
-PIN authentication, transactions, persistent storage  
-`C++` `STL Map` `Pointers` `File I/O`
+---
 
-**Terminal Text Editor** — Built from Scratch  
-Real-time input, search, undo/redo, no external libraries  
-`C++` `Win32 API` `ANSI Codes`
+### **[Kanban Board](https://kanban-board-ver1.netlify.app/)** — Project Management
+Visual task organization with column-based workflow.
+
+**Features:**
+• Task creation via form input  
+• Multiple columns (To Do / In Progress / Done)  
+• Dynamic task rendering  
+• Clean, minimal UI  
+
+**Tech:** `HTML5` `CSS3` `JavaScript`
+
+---
+
+### **[Quiz Game](https://quiz-game-v1.netlify.app/)** — Interactive Quiz App
+Engaging quiz application with real-time scoring and feedback.
+
+**Features:**
+• Dynamic question rendering  
+• Instant answer feedback  
+• Progress indicator  
+• Score calculation  
+• Fully responsive  
+
+**Tech:** `HTML5` `CSS3` `JavaScript`
+
+---
+
+## 💻 C++ Programming Projects
+
+### **Task Manager & Scheduler** — CLI Application
+Console-based task system with advanced features.
+
+**Features:**
+• Add/Edit/Delete tasks with priorities (High/Medium/Low)  
+• Search by keyword (case-insensitive)  
+• Sort by deadline chronologically  
+• Due date alerts (overdue & due-today warnings)  
+• Undo/Redo with 50-level snapshot history  
+• Color-coded terminal output (ANSI escape codes)  
+• Statistics dashboard  
+• File persistence  
+
+**Tech:** `C++` `STL Vectors` `File I/O` `ANSI Codes`
+
+**GitHub:** [View Project →](https://github.com/Coddiction-101/cpp_projects)
+
+---
+
+### **Banking System** — ATM Simulator
+Full-featured banking application with secure authentication.
+
+**Features:**
+• Account creation (Savings/Current)  
+• PIN-based authentication  
+• Deposit, withdraw, transfer operations  
+• Transaction history tracking  
+• Account deletion with confirmation  
+• Persistent file-based storage  
+
+**Tech:** `C++` `STL Map` `Pointers` `File I/O`
+
+**GitHub:** [View Project →](https://github.com/Coddiction-101/cpp_projects)
+
+---
+
+### **Terminal Text Editor** — Built from Scratch
+Fully functional text editor without external libraries.
+
+**Features:**
+• Real-time character input (no Enter key needed)  
+• Arrow key navigation  
+• Multi-line editing  
+• Search with match highlighting  
+• 50-level Undo/Redo (snapshot-based)  
+• Copy/Paste line operations  
+• Auto-indentation  
+• Dynamic scrollbar  
+• File save/load  
+
+**Tech:** `C++` `Win32 API` `ANSI Codes` `STL Vectors`
+
+**GitHub:** [View Project →](https://github.com/Coddiction-101/cpp_projects)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**  
+**Frontend Development**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Programming & Database**  
+**Programming & Database**
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Tools**  
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ---
 
-## 🎯 Currently
+## 📊 GitHub Stats
 
-- 🌐 Building web apps with vanilla JavaScript (mastering fundamentals)
-- ⚛️ Learning React (next on the roadmap)
-- 🧩 Practicing DSA in C++ (LeetCode)
-- 📚 Reading clean code principles
+<div align="center">
+    
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coddiction-101&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 📫 Let's Connect
+## 🎯 What I'm Working On
 
-Looking for **Frontend Developer Internships** (remote or hybrid) starting June 2026.
+**Right Now:**
+- Building web applications with vanilla JavaScript (mastering fundamentals)
+- Practicing Data Structures & Algorithms in C++ (LeetCode)
+- Learning modern JavaScript features and best practices
 
-- 💼 [LinkedIn](https://linkedin.com/in/gulshan-kushwaha-web-dev)
-- 📧 gulshansays333@gmail.com
-- 🌐 Portfolio: Coming soon
+**Next Steps:**
+- Learn React framework
+- Build portfolio website
+- Contribute to open-source projects
+- Start applying for frontend internships
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**  
+Makhanlal Chaturvedi University, Bhopal  
+2023 - 2026 (Expected)
+
+**Relevant Coursework:**  
+Web Development · Database Management · Data Structures & Algorithms · Object-Oriented Programming · Software Engineering · Computer Networks · Operating Systems
+
+---
+
+## 🏅 Certifications
+
+🛡️ **Cyber Job Simulation** — Deloitte (January 2026)
+
+---
+
+## 📫 Get In Touch
+
+I'm actively looking for **Frontend Developer Internships** (remote or hybrid) starting June 2026.
+
+- 💼 **LinkedIn:** [linkedin.com/in/gulshan-kushwaha-web-dev](https://linkedin.com/in/gulshan-kushwaha-web-dev)
+- 📧 **Email:** gulshansays333@gmail.com
+- 🌐 **Portfolio:** Coming soon
+
+Feel free to reach out for collaborations, internships, or just to connect!
 
 ---
 
 <div align="center">
 
-*"Build to learn. Learn to build."*
+**"Build to learn. Learn to build."**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Coddiction-101&color=6366f1&style=flat-square&label=Profile+Views)
 
