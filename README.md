@@ -107,26 +107,15 @@ Fully functional text editor without any external libraries.
 **Database:** MySQL  
 **Tools:** Git • GitHub • VS Code • Netlify
 
----
 
-## Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coddiction-101&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coddiction-101&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9)
-
-</div>
 
 ---
 
 ## Contact
 
 **Email:** gulshansays333@gmail.com  
-**LinkedIn:** [linkedin.com/in/gulshan-kushwaha-web-dev](https://linkedin.com/in/gulshan-kushwaha-web-dev)  
-**Location:** Jabalpur, Madhya Pradesh, India
-
+**LinkedIn:** [linkedin.com/in/gulshan-kushwaha-web-dev](https://www.linkedin.com/in/gulshan-kushwaha-439036334/)  
+ 
 Open to **Frontend Developer Internships** starting June 2026.
 
 ---
