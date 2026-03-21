@@ -6,7 +6,7 @@
 
 Building clean web applications and solving problems through code.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gulshan-kushwaha-439036334/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/gulshan-kushwaha-web-dev)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:gulshansays333@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=flat&logo=google-chrome&logoColor=white)](https://personalpxrtfolio.netlify.app/)
 
