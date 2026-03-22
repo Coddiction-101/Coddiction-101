@@ -127,4 +127,3 @@ Open to **Frontend Developer Internships** starting June 2026.
 *Build to learn. Learn to build.*
 
 </div>
-```
