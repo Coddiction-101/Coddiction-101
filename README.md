@@ -27,7 +27,7 @@ Final-year BCA student from Bhopal, India. I focus on building functional projec
 ## Projects
 
 <details>
-<summary><b>🌐 Web Development (4 Projects)</b></summary>
+<summary><b>🌐 Web Development (5 Projects)</b></summary>
 
 <br>
 
