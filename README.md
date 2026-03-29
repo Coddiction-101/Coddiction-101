@@ -54,6 +54,13 @@ Visual task organization with column-based workflow.
 **Stack:** HTML5 • CSS3 • JavaScript
 
 ---
+### [Cortex](https://coddiction-101.github.io/Frontend-Projects/Cortex/) — Smart Task Tracker
+Minimal, powerful dashboard to manage tasks with categories, priorities, and smart filtering.
+
+**Features:** Add/edit/delete tasks • Categories & priority levels • Real-time search • Dark/Light mode • Persistent storage  
+**Stack:** HTML5 • CSS3 • JavaScript
+
+---
 
 ### [Quiz Game](https://quiz-game-v1.netlify.app/) — Interactive Quiz
 Quiz application with real-time scoring and instant feedback.
