@@ -16,7 +16,7 @@ Building clean web applications and solving problems through code.
 
 ## About
 
-Final-year BCA student from Bhopal, India. I focus on building functional projects to learn and grow as a developer.
+Final-year BCA student from Jabalpur, MP, India. I focus on building functional projects to learn and grow as a developer.
 
 **Tech Stack:** HTML5 • CSS3 • JavaScript • C++ • MySQL  
 **Currently Learning:** React • Advanced JavaScript  
