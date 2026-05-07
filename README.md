@@ -47,7 +47,7 @@ Task manager with animations, keyboard shortcuts, and auto-save.
 
 ---
 
-### [Kanban Board](https://flowboardv2.netlify.app/) — Project Management
+### [Flowboard](https://flowboardv2.netlify.app/) — Project Management
 Visual task organization with column-based workflow.
 
 **Features:** Form-driven input • Multi-column layout • Dynamic rendering  
