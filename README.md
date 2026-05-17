@@ -112,7 +112,7 @@ Fully functional text editor without any external libraries.
 **Frontend:** HTML5 • CSS3 • JavaScript (ES6+) • Responsive Design  
 **Programming:** C++ (OOP, DSA, STL)  
 **Database:** MySQL  
-**Tools:** Git • GitHub • VS Code • Netlify
+**Tools:** Git • GitHub • VS Code • Netlify • InfinityFree
 
 
 
