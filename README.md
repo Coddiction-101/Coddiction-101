@@ -18,7 +18,7 @@ Building clean web applications and solving problems through code.
 
 Final-year BCA student from Jabalpur, MP, India. I focus on building functional projects to learn and grow as a developer.
 
-**Tech Stack:** HTML5 • CSS3 • JavaScript • C++ • MySQL  
+**Tech Stack:** HTML5 • CSS3 • JavaScript • C++   
 **Currently Learning:** React • Advanced JavaScript  
 **Looking For:** Frontend Developer Internships (Remote/Hybrid)
 
