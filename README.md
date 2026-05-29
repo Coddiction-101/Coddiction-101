@@ -12,67 +12,62 @@ Building clean web applications and solving problems through code.
 
 </div>
 
+---
+
 ## About
 
 Final-year BCA student passionate about web development, problem-solving, and building modern, user-focused applications.
 
-**Tech Stack:** HTML5 • CSS3 • JavaScript • C++   
-**Currently Learning:** React • Advanced JavaScript  
-**Looking For:** Frontend Developer Internships (Remote/Hybrid)
+- **Tech Stack:** HTML5 - CSS3 - JavaScript - C++
+- **Currently Learning:** React - Advanced JavaScript
+- **Looking For:** Frontend Developer Internships (Remote/Hybrid)
 
 ---
 
 ## Featured Project
 
 ### FocusForge — Deep Work Command Centre
+
 [Live Preview](https://coddiction-101.github.io/VibeHai/FocusForge/)
 
-A structured productivity dashboard designed to help users focus deeply, manage priorities effectively, and track work sessions through a clean and distraction-free interface.
+A productivity dashboard designed to help users manage priorities, maintain focus, and track deep work sessions through a clean and distraction-free interface.
 
-#### Core Features
+#### Features
 
-- Priority-based task management system
-- Deep work timer with Pomodoro workflow
+- Priority-based task management
+- Pomodoro-style deep work timer
 - Dynamic mental load tracking
+- Focus statistics and session history
 - Persistent local storage support
-- Focus statistics and productivity tracking
 - Multiple ambient theme modes
 
 #### Tech Stack
 
-HTML5 • CSS3 • JavaScript
-
-#### Highlights
-
-- Built entirely with Vanilla JavaScript without external libraries
-- Designed around clarity-focused productivity principles
-- Implemented responsive UI and modular dashboard structure
-- Created custom timer logic, task persistence, and statistics tracking system
-
+HTML5 - CSS3 - JavaScript
 
 ---
- 
+
 ## Skills
 
-**Frontend Development**  
+### Frontend
 HTML5 - CSS3 - JavaScript (ES6+) - Responsive Design
 
-**Programming**  
+### Programming
 C++ - OOP - DSA - STL
 
-**Database**  
+### Database
 MySQL
 
-**Tools & Platforms**  
+### Tools
 Git - GitHub - VS Code - Netlify - InfinityFree
 
 ---
 
 ## Contact
 
-**Email:** gulshansays333@gmail.com  
-**LinkedIn:** [linkedin.com/in/gulshan-kushwaha-web-dev](https://www.linkedin.com/in/gulshan-kushwaha-439036334/)  
- 
+- **Email:** gulshansays333@gmail.com
+- **LinkedIn:** [linkedin.com/in/gulshan-kushwaha-web-dev](https://www.linkedin.com/in/gulshan-kushwaha-439036334/)
+
 Open to **Frontend Developer Internships** starting June 2026.
 
 ---
