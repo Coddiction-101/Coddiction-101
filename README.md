@@ -51,14 +51,14 @@ HTML5 • CSS3 • JavaScript
 
 
 ---
-
+ 
 ## Skills
 
 **Frontend Development**  
-HTML5 • CSS3 • JavaScript (ES6+) • Responsive Design
+HTML5 - CSS3 - JavaScript (ES6+) - Responsive Design
 
 **Programming**  
-C++ • OOP • DSA • STL
+C++ - OOP - DSA - STL
 
 **Database**  
 MySQL
