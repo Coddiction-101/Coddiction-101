@@ -54,12 +54,17 @@ HTML5 • CSS3 • JavaScript
 
 ## Skills
 
-**Frontend:** HTML5 • CSS3 • JavaScript (ES6+) • Responsive Design  
-**Programming:** C++ (OOP, DSA, STL)  
-**Database:** MySQL  
-**Tools:** Git • GitHub • VS Code • Netlify • InfinityFree
+**Frontend Development**  
+HTML5 • CSS3 • JavaScript (ES6+) • Responsive Design
 
+**Programming**  
+C++ • OOP • DSA • STL
 
+**Database**  
+MySQL
+
+**Tools & Platforms**  
+Git - GitHub - VS Code - Netlify - InfinityFree
 
 ---
 
