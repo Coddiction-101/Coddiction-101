@@ -12,8 +12,6 @@ Building clean web applications and solving problems through code.
 
 </div>
 
----
-
 ## About
 
 Final-year BCA student passionate about web development, problem-solving, and building modern, user-focused applications.
@@ -24,6 +22,32 @@ Final-year BCA student passionate about web development, problem-solving, and bu
 
 ---
 
+## Featured Project
+
+### FocusForge — Deep Work Command Centre
+[Live Preview](https://coddiction-101.github.io/VibeHai/FocusForge/)
+
+A structured productivity dashboard designed to help users focus deeply, manage priorities effectively, and track work sessions through a clean and distraction-free interface.
+
+#### Core Features
+
+- Priority-based task management system
+- Deep work timer with Pomodoro workflow
+- Dynamic mental load tracking
+- Persistent local storage support
+- Focus statistics and productivity tracking
+- Multiple ambient theme modes
+
+#### Tech Stack
+
+HTML5 • CSS3 • JavaScript
+
+#### Highlights
+
+- Built entirely with Vanilla JavaScript without external libraries
+- Designed around clarity-focused productivity principles
+- Implemented responsive UI and modular dashboard structure
+- Created custom timer logic, task persistence, and statistics tracking system
 
 
 ---
