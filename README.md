@@ -4,7 +4,7 @@
 
 **Web Developer • BCA Final Year**
 
-Building clean web applications and solving problems through code.
+Building clean and user-focused web applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gulshan-kushwaha-web-dev/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:gulshansays333@gmail.com)
