@@ -41,7 +41,7 @@ A productivity dashboard designed to help users manage priorities, maintain focu
 - Persistent local storage support
 - Multiple ambient theme modes
 
-#### Tech Stack
+#### Built With
 
 HTML5 - CSS3 - JavaScript
 
