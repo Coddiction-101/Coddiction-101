@@ -24,6 +24,30 @@ Final-year BCA student passionate about web development, problem-solving, and bu
 
 ---
 
+## Featured Project
+
+### Project Name — Short One-Line Tagline
+[Live Demo](https://your-demo-link.com) • [GitHub](https://github.com/your-repo)
+
+Short professional description about the project, what problem it solves, or what makes it unique.
+
+#### Key Features
+- Feature one
+- Feature two
+- Feature three
+- Feature four
+
+#### Tech Stack
+HTML5 • CSS3 • JavaScript • React • Node.js
+
+#### Highlights
+- Built responsive and clean UI
+- Optimized performance and usability
+- Focused on scalable structure and maintainable code
+- Real-world project workflow and implementation
+
+---
+
 
 
 ---
