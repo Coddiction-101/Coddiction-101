@@ -2,7 +2,7 @@
 
 # Gulshan Kushwaha
 
-**Web Developer • BCA Final Year**
+**Frontend Developer**
 
 Building clean and user-focused web applications.
 
