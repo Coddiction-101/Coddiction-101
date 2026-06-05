@@ -2,14 +2,14 @@
 
 # Gulshan Kushwaha
 
-**Frontend Developer**
+Frontend Developer
 
-Building clean and user-focused web applications.
+Building productivity tools, web applications, and software projects with modern frontend technologies.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gulshxn/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:gulshansays333@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=flat&logo=google-chrome&logoColor=white)](https://portfxlio.vercel.app/)
+<a href="https://www.linkedin.com/in/gulshxn/">LinkedIn</a> • <a href="https://portfxlio.vercel.app/">Portfolio</a> • <a href="mailto:gulshansays333@gmail.com">Email</a>
+
 </div>
+
 
 ---
 
