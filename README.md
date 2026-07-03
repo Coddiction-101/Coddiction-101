@@ -52,22 +52,13 @@ HTML5 - CSS3 - JavaScript
 HTML5 - CSS3 - JavaScript (ES6+) - Responsive Design
 
 ### Programming
-C++ - OOP - DSA - STL
+C++ - Java, Python 
 
 ### Database
 MySQL
 
 ### Tools
-Git - GitHub - VS Code - Netlify - InfinityFree
-
----
-
-## Contact
-
-- **Email:** gulshansays333@gmail.com
-- **LinkedIn:** [linkedin.com/in/gulshan-kushwaha-web-dev](https://www.linkedin.com/in/gulshan-kushwaha-439036334/)
-
-Open to **Frontend Developer Internships** starting June 2026.
+Git - GitHub - VS Code - Netlify 
 
 ---
 
