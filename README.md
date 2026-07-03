@@ -52,7 +52,7 @@ HTML5 - CSS3 - JavaScript
 HTML5 - CSS3 - JavaScript (ES6+) - Responsive Design
 
 ### Programming
-C++ - Java, Python 
+C++ - Java - Python 
 
 ### Database
 MySQL
