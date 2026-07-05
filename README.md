@@ -27,7 +27,7 @@ Final-year BCA student passionate about web development, problem-solving, and bu
 
 ### Cortex — Task Tracker
 
-[Live Preview](https://coddiction-101.github.io/VibeHai/FocusForge/)
+[Live Preview](https://cortex-ashen-two.vercel.app/)
 
 A productivity dashboard designed to help users manage priorities, maintain focus, and track deep work sessions through a clean and distraction-free interface.
 
