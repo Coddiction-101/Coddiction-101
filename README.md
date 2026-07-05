@@ -29,7 +29,8 @@ Final-year BCA student passionate about web development, problem-solving, and bu
 
 [Live Preview](https://cortex-ashen-two.vercel.app/)
 
-A productivity dashboard designed to help users manage priorities, maintain focus, and track deep work sessions through a clean and distraction-free interface.
+A minimal, focus-first task management application built entirely with vanilla technologies. No frameworks. No dependencies. Just clean, highly optimized frontend architecture.
+
 
 #### Features
 
