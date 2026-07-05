@@ -25,7 +25,7 @@ Final-year BCA student passionate about web development, problem-solving, and bu
 
 ## Featured Project
 
-### FocusForge — Deep Work Command Centre
+### Cortex — Task Tracker
 
 [Live Preview](https://coddiction-101.github.io/VibeHai/FocusForge/)
 
