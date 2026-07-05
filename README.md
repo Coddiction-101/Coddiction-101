@@ -34,12 +34,10 @@ A minimal, focus-first task management application built entirely with vanilla t
 
 #### Features
 
-- Priority-based task management
-- Pomodoro-style deep work timer
-- Dynamic mental load tracking
-- Focus statistics and session history
-- Persistent local storage support
-- Multiple ambient theme modes
+- Instant task updates without page reloads
+- State-driven rendering pipeline without external frameworks
+- Premium UI with glassmorphism and persistent dark/light mode
+- Real-time search and filtering capabilities
 
 #### Built With
 
