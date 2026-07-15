@@ -56,7 +56,7 @@ C++ - Java - Python
 ### Database
 MySQL
 
-### Tools
+### Tools & Platforms
 Git - GitHub - VS Code - Netlify 
 
 ---
