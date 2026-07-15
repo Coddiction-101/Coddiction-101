@@ -65,6 +65,4 @@ Git - GitHub - VS Code - Netlify
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Coddiction-101&color=6366f1&style=flat)
 
-*Build to learn. Learn to build.*
-
 </div>
