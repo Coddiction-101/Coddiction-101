@@ -19,7 +19,7 @@ Final-year BCA student passionate about web development, problem-solving, and bu
 
 - **Tech Stack:** HTML5 - CSS3 - JavaScript - C++
 - **Currently Learning:** React - Advanced JavaScript
-- **Looking For:** Frontend Developer Internships (Remote/Hybrid)
+- **Looking For:** Frontend Developer Internships (Hybrid)
 
 ---
 
