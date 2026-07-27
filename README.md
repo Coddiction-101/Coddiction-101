@@ -4,7 +4,7 @@
 
 Frontend Developer
 
-Building productivity tools, web applications, and software projects with modern frontend technologies.
+BCA graduate passionate about software development, problem-solving, and building scalable web applications.
 
 <a href="https://www.linkedin.com/in/gulshxn/">LinkedIn</a> • <a href="https://portfxlio.vercel.app/">Portfolio</a> • <a href="mailto:gulshansays333@gmail.com">Email</a>
 
