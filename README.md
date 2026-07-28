@@ -14,10 +14,13 @@ Frontend Developer
 ---
 
 **About**
+
 BCA graduate passionate about software development, problem-solving, and building modern, user-focused applications.
 
 **Tech Stack:** HTML5 • CSS3 • JavaScript • C++
+
 **Currently Learning:** React • Advanced JavaScript • Backend Development
+
 **Looking For:** Software Developer Internships • Frontend Developer Roles
 
 ---
