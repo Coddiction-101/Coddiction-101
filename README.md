@@ -1,65 +1,49 @@
 <div align="center">
 
-# Gulshan Kushwaha
+# Hi, I'm Gulshan Kushwaha
+### Frontend Developer
 
-Frontend Developer
+BCA graduate passionate about software development, problem-solving, and building scalable web applications.
 
-*BCA graduate passionate about software development, problem-solving, and building scalable web applications.*
-
-<a href="https://www.linkedin.com/in/gulshxn/">LinkedIn</a> • <a href="https://portfxlio.vercel.app/">Portfolio</a> • <a href="mailto:gulshansays333@gmail.com">Email</a>
+[LinkedIn](https://www.linkedin.com/in/gulshxn/) • [Portfolio](https://portfxlio.vercel.app/) • [Email](mailto:gulshansays333@gmail.com)
 
 </div>
 
-
 ---
 
-**About**
+## About
 
 BCA graduate passionate about software development, problem-solving, and building modern, user-focused applications.
 
-**Tech Stack:** HTML5 • CSS3 • JavaScript • C++
-
-**Currently Learning:** React • Advanced JavaScript • Backend Development
-
-**Looking For:** Software Developer Internships • Frontend Developer Roles
+- **Tech Stack:** HTML5, CSS3, JavaScript, C++
+- **Currently Learning:** React, Advanced JavaScript, Backend Development
+- **Looking For:** Software Developer Internships, Frontend Developer Roles
 
 ---
 
 ## Featured Project
 
 ### Cortex — Task Tracker
-
 [Live Preview](https://cortex-ashen-two.vercel.app/)
 
-A minimal, focus-first task management application built entirely with vanilla technologies. No frameworks. No dependencies. Just clean, highly optimized frontend architecture.
+A minimal, focus-first task management app built entirely with vanilla technologies — no frameworks, no dependencies, just clean, optimized frontend architecture.
 
-
-#### Features
-
+**Features**
 - Instant task updates without page reloads
 - State-driven rendering pipeline without external frameworks
-- Premium UI with glassmorphism and persistent dark/light mode
-- Real-time search and filtering capabilities
+- Glassmorphism UI with persistent dark/light mode
+- Real-time search and filtering
 
-#### Built With
-
-HTML5 - CSS3 - JavaScript
+**Built With:** HTML5, CSS3, JavaScript
 
 ---
 
 ## Skills
 
-### Frontend
-HTML5 - CSS3 - JavaScript (ES6+) - Responsive Design
-
-### Programming
-C++ - Java - Python 
-
-### Database
-MySQL
-
-### Tools & Platforms
-Git - GitHub - VS Code - Netlify 
+**Frontend:** HTML5, CSS3, JavaScript (ES6+), Responsive Design
+**Programming:** C++, Java, Python
+**Database:** MySQL
+**Tools & Platforms:** Git, GitHub, VS Code, Netlify
 
 ---
 
