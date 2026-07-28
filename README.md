@@ -24,11 +24,13 @@ BCA graduate passionate about software development, problem-solving, and buildin
 ## Featured Project
 
 ### Cortex — Task Tracker
+
 [Live Preview](https://cortex-ashen-two.vercel.app/)
 
 A minimal, focus-first task management app built entirely with vanilla technologies — no frameworks, no dependencies, just clean, optimized frontend architecture.
 
 **Features**
+
 - Instant task updates without page reloads
 - State-driven rendering pipeline without external frameworks
 - Glassmorphism UI with persistent dark/light mode
@@ -41,8 +43,11 @@ A minimal, focus-first task management app built entirely with vanilla technolog
 ## Skills
 
 **Frontend:** HTML5, CSS3, JavaScript (ES6+), Responsive Design
+
 **Programming:** C++, Java, Python
+
 **Database:** MySQL
+
 **Tools & Platforms:** Git, GitHub, VS Code, Netlify
 
 ---
