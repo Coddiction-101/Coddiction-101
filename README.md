@@ -18,6 +18,10 @@ BCA graduate passionate about software development, problem-solving, and buildin
 - **Tech Stack:** HTML5, CSS3, JavaScript, C++
 - **Currently Learning:** React, Advanced JavaScript, Backend Development
 - **Looking For:** Software Developer Internships, Frontend Developer Roles
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Responsive Design
+- **Programming:** C++, Java, Python
+- **Database:** MySQL
+- **Tools & Platforms:** Git, GitHub, VS Code, Netlify
 
 ---
 
@@ -37,18 +41,6 @@ A minimal, focus-first task management app built entirely with vanilla technolog
 - Real-time search and filtering
 
 **Built With:** HTML5, CSS3, JavaScript
-
----
-
-## Skills
-
-**Frontend:** HTML5, CSS3, JavaScript (ES6+), Responsive Design
-
-**Programming:** C++, Java, Python
-
-**Database:** MySQL
-
-**Tools & Platforms:** Git, GitHub, VS Code, Netlify
 
 ---
 
