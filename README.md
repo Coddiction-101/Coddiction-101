@@ -14,7 +14,7 @@ Passionate about software development, problem-solving, and building scalable we
 
 ## About
 
-BCA graduate passionate about software development, problem-solving, and building modern, user-focused applications.
+_Passionate about software development, problem-solving, and building scalable web applications._
 
 * **Tech Stack:** HTML5, CSS3, JavaScript, C++
 * **Currently Learning:** React, Advanced JavaScript, Backend Development
