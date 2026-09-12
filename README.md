@@ -2,7 +2,7 @@
 
 # Hi, I'm Gulshan Kushwaha
 
-### Frontend Developer
+### Fullstack Web Developer
 
 Passionate about software development, problem-solving, and building scalable web applications.
 
