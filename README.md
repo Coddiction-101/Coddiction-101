@@ -21,7 +21,6 @@ _Passionate about software development, problem-solving, and building scalable w
 * **Looking For:** Software Developer Internships, Frontend Developer Roles
 * **Frontend:** HTML5, CSS3, JavaScript (ES6+), Responsive Design
 * **Programming:** C++, Java, Python
-* **Database:** MySQL
 * **Tools & Platforms:** Git, GitHub, VS Code, Netlify
 
 ---
