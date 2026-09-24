@@ -20,7 +20,7 @@ _Passionate about software development, problem-solving, and building scalable w
 * **Currently Learning:** React, Advanced JavaScript, Backend Development
 * **Looking For:** Software Developer Internships, Frontend Developer Roles
 * **Frontend:** HTML5, CSS3, JavaScript (ES6+), Responsive Design
-* **Programming:** C++, Java, Python
+* **Programming:** C++, Java, Python, Visual Basic
 * **Tools & Platforms:** Git, GitHub, VS Code, Netlify
 
 ---
